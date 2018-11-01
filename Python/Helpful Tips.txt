@@ -1,0 +1,12 @@
+Head over to:
+https://codecademy.com/learn/learn-python
+to learn more bout python. Really helpful.
+
+Watch tutorials:
+
+https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-
+
+If you prefer visual, this is highly recommended.
+
+If you need help, Use python documentation (just google) or head over to stackoverflow for helps from the community.
+
